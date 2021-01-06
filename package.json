@@ -1,0 +1,28 @@
+{
+  "name": "basic-router_project",
+  "version": "0.1.0",
+  "description": "A basic project to practice my backend skills",
+  "main": "app.js",
+  "scripts": {
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fenriquegimenez/basic-router_project.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "backend",
+    "javascript"
+  ],
+  "author": "Enrique Gimenez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fenriquegimenez/basic-router_project/issues"
+  },
+  "homepage": "https://github.com/fenriquegimenez/basic-router_project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
